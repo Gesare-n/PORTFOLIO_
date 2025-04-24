@@ -1,5 +1,3 @@
-![Screenshot 2025-04-24 041814](https://github.com/user-attachments/assets/e83a2689-c366-40fb-89f4-74ed93138edc)Sure! Here's the complete `README.md` in the same style and format, extended from where your snippet left off:
-
 
 #  Nicole Gesare Onyiego – Developer Portfolio
 
