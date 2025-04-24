@@ -3,7 +3,7 @@
 
 Welcome to my interactive 3D portfolio, where I showcase my work in **web development**, **game development**, **IoT**. This portfolio reflects my passion for design, innovation, and modern development technologies.
 
-![Portfolio Preview]
+# Preview 
 (![Screenshot 2025-04-24 041019](https://github.com/user-attachments/assets/f164dd1a-542b-4235-92e7-aa31af707262)
 ![Screenshot 2025-04-24 041814](https://github.com/user-attachments/assets/da940b2c-e059-4183-bb12-e6eada77cf02)
 ![Screenshot 2025-04-24 041834](https://github.com/user-attachments/assets/120631fd-464c-4846-9640-cb5bca937cf0)
