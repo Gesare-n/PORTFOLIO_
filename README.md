@@ -65,7 +65,7 @@ Welcome to my interactive 3D portfolio, where I showcase my work in **web develo
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -98,7 +98,7 @@ Visit `http://localhost:3000` to view your portfolio live.
 
 ---
 
-## 🎬 Showcase Video
+##  Showcase Video
 
 Check out the interactive demo to see it in action:
 
