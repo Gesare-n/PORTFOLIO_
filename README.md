@@ -101,8 +101,7 @@ Visit `http://localhost:3000` to view your portfolio live.
 ##  Showcase Video
 
 Check out the interactive demo to see it in action:
-
-[![Watch the Demo](https://www.youtube.com/watch?v=MeYTjomsWK8)
+(https://www.youtube.com/watch?v=MeYTjomsWK8)
 
 ---
 
