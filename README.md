@@ -1,7 +1,9 @@
 
 #  Nicole Gesare Onyiego – Developer Portfolio
 
-Welcome to my interactive 3D portfolio, where I showcase my work in **web development**, **game development**, **IoT**. This portfolio reflects my passion for design, innovation, and modern development technologies.
+Welcome to my interactive 3D portfolio, where I showcase my work in **web development**, **game development**, **IoT**. This portfolio reflects my passion for design, innovation, and modern development technologies
+## Link :  https://nicolegesareonyiego.vercel.app/
+
 
 # Preview 
 (![Screenshot 2025-04-24 041019](https://github.com/user-attachments/assets/f164dd1a-542b-4235-92e7-aa31af707262)
